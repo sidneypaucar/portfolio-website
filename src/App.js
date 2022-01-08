@@ -103,7 +103,6 @@ function App() {
             <div className='Profile-Resume'>
             <img alt='icon' className='Profile-Pic'
               src="https://i.imgur.com/EqAgM6G.jpg"
-              alt="profile_pic"
             />
             <ExternalLink className= 'Resume' href='https://docs.google.com/document/d/16BmhJ_lvKY9Vs8er5zvZ1AMkUK2Q9peDLqh3WTvv2os/edit?usp=sharing'>
             Click here for Resume  
@@ -122,7 +121,7 @@ function App() {
           <div className='Jasz-Inner'>
             <img alt='icon' className='Jasz-Image'
               src="https://i.imgur.com/4jjcGmQ.jpg"
-              alt="jasz_image" />
+              />
             <div className='Jasz-Links'>
               <p className='Jasz-Description'>
               <strong>The Jasz Library</strong> is a full-stack web application where anyone can search and view books in the library as well as its information. If a user would like to contribute, they can create an account and add or update existing books to the library. The Front-End with is built with ReactJS. Backend is built with MongoDB and Mongoose.
@@ -144,7 +143,7 @@ function App() {
           <div className='Matrix-Inner'>
             <img alt='icon' className='Matrix-Image'
               src="https://i.imgur.com/SAKMFw5.jpg"
-              alt="matrix_image" />
+              />
             <div className='Matrix-Links'>
               <p className='Matrix-Description'>
               <strong>The Matrix Project</strong> is loosely based off of the movie franchise in which the user must decide whether to either take the red pill, or blue one. Each pill navigates the user into their choice, either find out the secrets that lie beyond, or rather remain sane and watch funny videos. Built solely with ReactJS. 
@@ -166,7 +165,7 @@ function App() {
           <div className='Bar-Inner'>
             <img alt='icon' className='Bar-Image'
               src="https://i.imgur.com/MiORH6n.png"
-              alt="bar_image" />
+              />
             <div className='Bar-Links'>
               <p className='Bar-Description'>
               <strong>Bushwick Bar</strong> is a full-stack web application where any guest can openly craft their very own cocktail. Anyone can view cocktails already crafted by others, however, if a user decides to craft one, they must Sign In/Sign Up to create one out of over 40+ ingredients the barista has behind the counter. The Front-End is built with ReactJS, and the Backend with Ruby on Rails.
