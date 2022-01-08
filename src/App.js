@@ -27,81 +27,81 @@ function App() {
               </p>
               <ul className='icons'>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://i.imgur.com/2wVg1FT.png" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" />
                 </li>
                 <li>
-                  <img className='icon'
+                  <img alt='icon' className='icon'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
                 </li>
               </ul>
             </div>
             <div className='Profile-Resume'>
-            <img className='Profile-Pic'
+            <img alt='icon' className='Profile-Pic'
               src="https://i.imgur.com/EqAgM6G.jpg"
               alt="profile_pic"
             />
@@ -120,7 +120,7 @@ function App() {
           </p>
           <br />
           <div className='Jasz-Inner'>
-            <img className='Jasz-Image'
+            <img alt='icon' className='Jasz-Image'
               src="https://i.imgur.com/4jjcGmQ.jpg"
               alt="jasz_image" />
             <div className='Jasz-Links'>
@@ -135,14 +135,14 @@ function App() {
               </a>
               <ExternalLink 
                 href='https://github.com/sidneypaucar/JASZ-Library'>
-                <img className='Repo'
+                <img alt='icon' className='Repo'
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
               </ExternalLink>
             </div>
           </div>
           </div>        
           <div className='Matrix-Inner'>
-            <img className='Matrix-Image'
+            <img alt='icon' className='Matrix-Image'
               src="https://i.imgur.com/SAKMFw5.jpg"
               alt="matrix_image" />
             <div className='Matrix-Links'>
@@ -157,14 +157,14 @@ function App() {
               </a>
               <ExternalLink 
                 href='https://github.com/sidneypaucar/the-matrix'>
-                <img className='Repo'
+                <img alt='icon' className='Repo'
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
               </ExternalLink>
             </div>
           </div>
           </div>
           <div className='Bar-Inner'>
-            <img className='Bar-Image'
+            <img alt='icon' className='Bar-Image'
               src="https://i.imgur.com/MiORH6n.png"
               alt="bar_image" />
             <div className='Bar-Links'>
@@ -179,7 +179,7 @@ function App() {
               </a>
               <ExternalLink 
                 href='https://github.com/sidneypaucar/Bushwick-Bar'>
-                <img className='Repo'
+                <img alt='icon' className='Repo'
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
               </ExternalLink>
             </div>

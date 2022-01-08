@@ -16,11 +16,11 @@ function Footer() {
       </a>
       <div className='Footer-Icons'>
         <ExternalLink href='https://www.linkedin.com/in/sidney-paucar-bb3133ab/'>
-          <img className='External-Link'
+          <img alt='icon' className='External-Link'
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
         </ExternalLink>
         <ExternalLink href='https://github.com/sidneypaucar'>
-          <img className='External-Link'
+          <img alt='icon' className='External-Link'
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
         </ExternalLink>
       </div>
