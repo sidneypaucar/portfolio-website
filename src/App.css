@@ -89,6 +89,7 @@ p, a{
   gap: 50px;
   margin-bottom: 65px;
   overflow: auto;
+
 }
 .Profile-Resume{
   text-align: center;
@@ -109,7 +110,7 @@ p, a{
   margin-top: 0px;
   margin-bottom: 30px;
   border-radius: 50%;
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+  box-shadow: 0 8px 15px -2px gray;
   text-align: center;
   transition: 300ms linear;
 }
