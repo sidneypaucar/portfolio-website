@@ -85,10 +85,10 @@ p, a{
 }
 
 .Inner {
-  display: grid;
-  grid-template-columns: 4fr 2fr;
+  display: flex;
   gap: 50px;
   margin-bottom: 65px;
+  overflow: auto;
 }
 .Profile-Resume{
   text-align: center;
@@ -115,7 +115,7 @@ p, a{
 }
 
 .Profile-Pic:hover{
-  transform: scale(1.03);
+  transform: scale(1.01);
   transition: transform 330ms ease-in-out;
 }
 
@@ -141,14 +141,6 @@ p, a{
 }
 
 ul{
-  /* display: grid;
-  justify-content: center;
-  grid-template-columns: repeat(4, minmax(100px, 10px));
-  gap: 10px 10px;
-  padding: 0px;
-  margin: 20px 0px 0px;
-  list-style: none; */
-
   display: flex;
   justify-content: center;
   list-style: none;
@@ -399,7 +391,7 @@ footer{
 }
 
 /* ========================================= */
-@media only screen and (max-width: 968px) {
+@media only screen and (max-width: 1205px) {
   .Home, .About, .Project {
     padding: 0px 50px;
   }
@@ -477,10 +469,6 @@ footer{
     text-shadow: 0px 0px 1px #777777;
     width: 100%;
     justify-content: center;
-  }
-
-  .About-Div {
-    overflow:auto;
   }
 
   ul {

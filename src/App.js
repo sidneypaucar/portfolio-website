@@ -104,8 +104,8 @@ function App() {
             <img alt='icon' className='Profile-Pic'
               src="https://i.imgur.com/EqAgM6G.jpg"
             />
-            <ExternalLink className= 'Resume' href='https://docs.google.com/document/d/16BmhJ_lvKY9Vs8er5zvZ1AMkUK2Q9peDLqh3WTvv2os/edit?usp=sharing'>
-            Click here for Resume  
+            <ExternalLink className= 'Resume' href='https://docs.google.com/document/d/16BmhJ_lvKY9Vs8er5zvZ1AMkUK2Q9peDLqh3WTvv2os/export?format=pdf'>
+            Click here for Resume 
               </ExternalLink>
             </div>
           </div> 
@@ -146,7 +146,7 @@ function App() {
               />
             <div className='Matrix-Links'>
               <p className='Matrix-Description'>
-              <strong>The Matrix Project</strong> is loosely based off of the movie franchise in which the user must decide whether to either take the red pill, or blue one. Each pill navigates the user into their choice, either find out the secrets that lie beyond, or rather remain sane and watch funny videos. Built solely with ReactJS. 
+              <strong>The Matrix Project</strong> is loosely based off of the movie franchise in which the user must decide whether to either take the red pill, or blue one. Each pill navigates the user into their choice, either find out the secrets that lie beyond, or rather remain sane and watch funny videos. Built with ReactJS. 
               </p>
             <div className='Matrix-Site-Link'>
               <a 
